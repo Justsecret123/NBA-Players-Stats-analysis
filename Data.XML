@@ -172,89 +172,89 @@
 		</magic>
 	</playoffs>
 	<both>
-		<lebron>
-			<points>6911</points>
-			<assists>1687</assists>
-			<rebounds>2122</rebounds>
-			<blocks>232</blocks>
-			<steals>419</steals>
+		<lebron total="67071">
+			<points>40998</points>
+			<assists>10985</assists>
+			<rebounds>11475</rebounds>
+			<blocks>1183</blocks>
+			<steals>11475</steals>
 		</lebron>
-		<michael>
-			<points>5987</points>
-			<assists>1022</assists>
-			<rebounds>1152</rebounds>
-			<blocks>158</blocks>
-			<steals>376</steals>
+		<michael total="56129">
+			<points>38279</points>
+			<assists>6655</assists>
+			<rebounds>7824</rebounds>
+			<blocks>1051</blocks>
+			<steals>7824</steals>
 		</michael>
-		<kareem>
-			<points>5762</points>
-			<assists>767</assists>
-			<rebounds>2481</rebounds>
-			<blocks>476</blocks>
-			<steals>189</steals>
+		<kareem total="75511">
+			<points>44149</points>
+			<assists>6427</assists>
+			<rebounds>19921</rebounds>
+			<blocks>3665</blocks>
+			<steals>19921</steals>
 		</kareem>
-		<kobe>
-			<points>5640</points>
-			<assists>1040</assists>
-			<rebounds>1119</rebounds>
-			<blocks>144</blocks>
-			<steals>310</steals>
+		<kobe total="57833">
+			<points>39283</points>
+			<assists>7346</assists>
+			<rebounds>8166</rebounds>
+			<blocks>784</blocks>
+			<steals>8166</steals>
 		</kobe>
-		<karl_malone>
-			<points>4761</points>
-			<assists>610</assists>
-			<rebounds>2062</rebounds>
-			<blocks>135</blocks>
-			<steals>258</steals>
+		<karl_malone total="68200">
+			<points>41689</points>
+			<assists>5858</assists>
+			<rebounds>17030</rebounds>
+			<blocks>1280</blocks>
+			<steals>17030</steals>
 		</karl_malone>
-		<wilt>
-			<points>3607</points>
-			<assists>673</assists>
-			<rebounds>3913</rebounds>
+		<wilt total="68179">
+			<points>35026</points>
+			<assists>5316</assists>
+			<rebounds>27837</rebounds>
 			<blocks>0</blocks>
-			<steals>0</steals>
+			<steals>27837</steals>
 		</wilt>
-		<shaq>
-			<points>5250</points>
-			<assists>582</assists>
-			<rebounds>2508</rebounds>
-			<blocks>459</blocks>
-			<steals>117</steals>		
+		<shaq total="57108">
+			<points>33846</points>
+			<assists>3608</assists>
+			<rebounds>15607</rebounds>
+			<blocks>3191</blocks>
+			<steals>15607</steals>		
 		</shaq>
-		<duncan>
-			<points>5172</points>
-			<assists>764</assists>
-			<rebounds>2859</rebounds>
-			<blocks>568</blocks>
-			<steals>168</steals>	
+		<duncan total="59388">
+			<points>31668</points>
+			<assists>4989</assists>
+			<rebounds>17950</rebounds>
+			<blocks>3588</blocks>
+			<steals>17950</steals>	
 		</duncan>
-		<dirk>
-			<points>3663</points>
-			<assists>360</assists>
-			<rebounds>1446</rebounds>
-			<blocks>129</blocks>
-			<steals>149</steals>	
+		<dirk total="54938">
+			<points>35223</points>
+			<assists>4011</assists>
+			<rebounds>12935</rebounds>
+			<blocks>1410</blocks>
+			<steals>12935</steals>	
 		</dirk>
-		<hakeem>
-			<points>3755</points>
-			<assists>458</assists>
-			<rebounds>1621</rebounds>
-			<blocks>472</blocks>
-			<steals>245</steals>	
+		<hakeem total="56285">
+			<points>30701</points>
+			<assists>3516</assists>
+			<rebounds>15369</rebounds>
+			<blocks>4292</blocks>
+			<steals>15369</steals>	
 		</hakeem>
-		<garnett>
-			<points>2601</points>
-			<assists>471</assists>
-			<rebounds>1534</rebounds>
-			<blocks>186</blocks>
-			<steals>178</steals>	
+		<garnett total="55044">
+			<points>28672</points>
+			<assists>5916</assists>
+			<rebounds>16196</rebounds>
+			<blocks>2223</blocks>
+			<steals>16196</steals>	
 		</garnett>
-		<magic>
-			<points>3701</points>
-			<assists>2346</assists>
-			<rebounds>1465</rebounds>
-			<blocks>64</blocks>
-			<steals>358</steals>	
+		<magic total="44439">
+			<points>21408</points>
+			<assists>12487</assists>
+			<rebounds>8024</rebounds>
+			<blocks>438</blocks>
+			<steals>8024</steals>	
 		</magic>
 	</both>
 </stats>
