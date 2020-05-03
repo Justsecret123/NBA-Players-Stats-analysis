@@ -173,49 +173,49 @@
 		</magic>
 	</playoffs>
 	<both>
-		<lebron total="67071">
+		<lebron>
 			<points>40998</points>
 			<assists>10985</assists>
 			<rebounds>11475</rebounds>
 			<blocks>1183</blocks>
 			<steals>2430</steals>
 		</lebron>
-		<michael total="56136">
+		<michael>
 			<points>38279</points>
 			<assists>6655</assists>
 			<rebounds>7824</rebounds>
 			<blocks>1058</blocks>
 			<steals>2320</steals>
 		</michael>
-		<kareem total="75511">
+		<kareem>
 			<points>44149</points>
 			<assists>6427</assists>
 			<rebounds>19921</rebounds>
 			<blocks>3665</blocks>
 			<steals>1349</steals>
 		</kareem>
-		<kobe total="58473">
+		<kobe>
 			<points>39283</points>
 			<assists>7346</assists>
 			<rebounds>8166</rebounds>
 			<blocks>784</blocks>
 			<steals>2254</steals>
 		</kobe>
-		<karl_malone total="68200">
+		<karl_malone>
 			<points>41689</points>
 			<assists>5858</assists>
 			<rebounds>17030</rebounds>
 			<blocks>1280</blocks>
 			<steals>2343</steals>
 		</karl_malone>
-		<wilt total="68179">
+		<wilt>
 			<points>35026</points>
 			<assists>5316</assists>
 			<rebounds>27837</rebounds>
 			<blocks>0</blocks>
 			<steals>0</steals>
 		</wilt>
-		<shaq total="57108">
+		<shaq>
 			<points>33846</points>
 			<assists>3608</assists>
 			<rebounds>15607</rebounds>
