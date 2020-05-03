@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <stats date="25/03/2020">
 	<regular_season>
 		<lebron>
@@ -172,7 +171,8 @@
 			<steals>358</steals>	
 		</magic>
 	</playoffs>
-	<both>		<lebron>
+	<both>
+		<lebron>
 			<points>6911</points>
 			<assists>1687</assists>
 			<rebounds>2122</rebounds>
