@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <stats date="25/03/2020">
    <regular_season>
       <lebron>
@@ -84,6 +85,55 @@
          <blocks>374</blocks>
          <steals>1724</steals>
       </magic>
+      <John_Stockton>
+         <points>19711</points>
+         <assists>15806</assists>
+         <rebounds>4051</rebounds>
+         <blocks>315</blocks>
+         <steals>3265</steals>
+      </John_Stockton>
+      <Oscar_Robertson>
+         <points>26710</points>
+         <assists>9887</assists>
+         <rebounds>7804</rebounds>
+         <blocks>4</blocks>
+         <steals>77</steals>
+      </Oscar_Robertson>
+      <Steve_Nash>
+         <points>17387</points>
+         <assists>10335</assists>
+         <rebounds>3642</rebounds>
+         <blocks>102</blocks>
+         <steals>899</steals>
+      </Steve_Nash>
+      <Jason_Kidd>
+         <points>17529</points>
+         <assists>12091</assists>
+         <rebounds>8725</rebounds>
+         <blocks>450</blocks>
+         <steals>2684</steals>
+      </Jason_Kidd>
+      <Bill_Russel>
+         <points>14522</points>
+         <assists>4100</assists>
+         <rebounds>21620</rebounds>
+         <blocks>0</blocks>
+         <steals>0</steals>
+      </Bill_Russel>
+      <Elvin_Hayes>
+         <points>27313</points>
+         <assists>2398</assists>
+         <rebounds>16279</rebounds>
+         <blocks>1771</blocks>
+         <steals>864</steals>
+      </Elvin_Hayes>
+      <Moses_Malone>
+         <points>27409</points>
+         <assists>1796</assists>
+         <rebounds>16212</rebounds>
+         <blocks>1733</blocks>
+         <steals>1089</steals>
+      </Moses_Malone>
    </regular_season>
    <playoffs>
       <lebron>
@@ -170,6 +220,55 @@
          <blocks>64</blocks>
          <steals>358</steals>
       </magic>
+      <John_Stockton>
+         <points>2436</points>
+         <assists>1839</assists>
+         <rebounds>608</rebounds>
+         <blocks>50</blocks>
+         <steals>338</steals>
+      </John_Stockton>
+      <Oscar_Robertson>
+         <points>1910</points>
+         <assists>769</assists>
+         <rebounds>578</rebounds>
+         <blocks>4</blocks>
+         <steals>15</steals>
+      </Oscar_Robertson>
+      <Steve_Nash>
+         <points>2072</points>
+         <assists>1061</assists>
+         <rebounds>422</rebounds>
+         <blocks>14</blocks>
+         <steals>66</steals>
+      </Steve_Nash>
+      <Jason_Kidd>
+         <points>2043</points>
+         <assists>1263</assists>
+         <rebounds>1058</rebounds>
+         <blocks>52</blocks>
+         <steals>302</steals>
+      </Jason_Kidd>
+      <Bill_Russel>
+         <points>2673</points>
+         <assists>770</assists>
+         <rebounds>4104</rebounds>
+         <blocks>0</blocks>
+         <steals>0</steals>
+      </Bill_Russel>
+      <Elvin_Hayes>
+         <points>2194</points>
+         <assists>185</assists>
+         <rebounds>1244</rebounds>
+         <blocks>222</blocks>
+         <steals>97</steals>
+      </Elvin_Hayes>
+      <Moses_Malone>
+         <points>2077</points>
+         <assists>136</assists>
+         <rebounds>1295</rebounds>
+         <blocks>151</blocks>
+         <steals>84</steals>
+      </Moses_Malone>
    </playoffs>
    <both>
       <lebron total="67071">
@@ -256,5 +355,54 @@
          <blocks>438</blocks>
          <steals>2082</steals>
       </magic>
+      <John_Stockton total="48419">
+         <points>22147</points>
+         <assists>17645</assists>
+         <rebounds>4659</rebounds>
+         <blocks>365</blocks>
+         <steals>3603</steals>
+      </John_Stockton>
+      <Oscar_Robertson total="47758">
+         <points>28620</points>
+         <assists>10656</assists>
+         <rebounds>8382</rebounds>
+         <blocks>8</blocks>
+         <steals>92</steals>
+      </Oscar_Robertson>
+      <Steve_Nash total="36000">
+         <points>19459</points>
+         <assists>11396</assists>
+         <rebounds>4064</rebounds>
+         <blocks>116</blocks>
+         <steals>965</steals>
+      </Steve_Nash>
+      <Jason_Kidd total="46197">
+         <points>19572</points>
+         <assists>13354</assists>
+         <rebounds>9783</rebounds>
+         <blocks>502</blocks>
+         <steals>2986</steals>
+      </Jason_Kidd>
+      <Bill_Russel total="47789">
+         <points>17195</points>
+         <assists>4870</assists>
+         <rebounds>25724</rebounds>
+         <blocks>0</blocks>
+         <steals>0</steals>
+      </Bill_Russel>
+      <Elvin_Hayes total="52567">
+         <points>29507</points>
+         <assists>2583</assists>
+         <rebounds>17523</rebounds>
+         <blocks>1993</blocks>
+         <steals>961</steals>
+      </Elvin_Hayes>
+      <Moses_Malone total="51982">
+         <points>29486</points>
+         <assists>1932</assists>
+         <rebounds>17507</rebounds>
+         <blocks>1884</blocks>
+         <steals>1173</steals>
+      </Moses_Malone>
    </both>
 </stats>
