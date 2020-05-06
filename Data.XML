@@ -133,6 +133,55 @@
          <blocks>1733</blocks>
          <steals>1089</steals>
       </Moses_Malone>
+      <Robert_Parish>
+         <points>23334</points>
+         <assists>2180</assists>
+         <rebounds>14715</rebounds>
+         <blocks>2361</blocks>
+         <steals>1219</steals>
+      </Robert_Parish>
+      <Charles_Barkley>
+         <points>23757</points>
+         <assists>4215</assists>
+         <rebounds>12546</rebounds>
+         <blocks>888</blocks>
+         <steals>1648</steals>
+      </Charles_Barkley>
+      <Dwight_Howard>
+         <points>18582</points>
+         <assists>1577</assists>
+         <rebounds>13641</rebounds>
+         <blocks>2127</blocks>
+         <steals>1013</steals>
+      </Dwight_Howard>
+      <Chris_Paul>
+         <points>18711</points>
+         <assists>9607</assists>
+         <rebounds>4572</rebounds>
+         <blocks>131</blocks>
+         <steals>2220</steals>
+      </Chris_Paul>
+      <Paul_Pierce>
+         <points>26397</points>
+         <assists>4708</assists>
+         <rebounds>7527</rebounds>
+         <blocks>745</blocks>
+         <steals>1752</steals>
+      </Paul_Pierce>
+      <Allen_Iverson>
+         <points>24368</points>
+         <assists>5624</assists>
+         <rebounds>3394</rebounds>
+         <blocks>164</blocks>
+         <steals>1983</steals>
+      </Allen_Iverson>
+      <Patrick_Ewing>
+         <points>24815</points>
+         <assists>2215</assists>
+         <rebounds>11607</rebounds>
+         <blocks>2894</blocks>
+         <steals>1136</steals>
+      </Patrick_Ewing>
    </regular_season>
    <playoffs>
       <lebron>
@@ -268,6 +317,55 @@
          <blocks>151</blocks>
          <steals>84</steals>
       </Moses_Malone>
+      <Robert_Parish>
+         <points>2820</points>
+         <assists>234</assists>
+         <rebounds>1765</rebounds>
+         <blocks>309</blocks>
+         <steals>145</steals>
+      </Robert_Parish>
+      <Charles_Barkley>
+         <points>2833</points>
+         <assists>482</assists>
+         <rebounds>1582</rebounds>
+         <blocks>108</blocks>
+         <steals>193</steals>
+      </Charles_Barkley>
+      <Dwight_Howard>
+         <points>1749</points>
+         <assists>132</assists>
+         <rebounds>1315</rebounds>
+         <blocks>234</blocks>
+         <steals>84</steals>
+      </Dwight_Howard>
+      <Chris_Paul>
+         <points>2133</points>
+         <assists>865</assists>
+         <rebounds>519</rebounds>
+         <blocks>18</blocks>
+         <steals>222</steals>
+      </Chris_Paul>
+      <Paul_Pierce>
+         <points>3180</points>
+         <assists>579</assists>
+         <rebounds>985</rebounds>
+         <blocks>105</blocks>
+         <steals>204</steals>
+      </Paul_Pierce>
+      <Allen_Iverson>
+         <points>2111</points>
+         <assists>425</assists>
+         <rebounds>273</rebounds>
+         <blocks>14</blocks>
+         <steals>147</steals>
+      </Allen_Iverson>
+      <Patrick_Ewing>
+         <points>2813</points>
+         <assists>275</assists>
+         <rebounds>1435</rebounds>
+         <blocks>303</blocks>
+         <steals>122</steals>
+      </Patrick_Ewing>
    </playoffs>
    <both>
       <lebron total="67071">
@@ -403,5 +501,54 @@
          <blocks>1884</blocks>
          <steals>1173</steals>
       </Moses_Malone>
+      <Robert_Parish total="49082">
+         <points>26154</points>
+         <assists>2414</assists>
+         <rebounds>16480</rebounds>
+         <blocks>2670</blocks>
+         <steals>1364</steals>
+      </Robert_Parish>
+      <Charles_Barkley total="48252">
+         <points>26590</points>
+         <assists>4697</assists>
+         <rebounds>14128</rebounds>
+         <blocks>996</blocks>
+         <steals>1841</steals>
+      </Charles_Barkley>
+      <Dwight_Howard total="40454">
+         <points>20331</points>
+         <assists>1709</assists>
+         <rebounds>14956</rebounds>
+         <blocks>2361</blocks>
+         <steals>1097</steals>
+      </Dwight_Howard>
+      <Chris_Paul total="38998">
+         <points>20844</points>
+         <assists>10472</assists>
+         <rebounds>5091</rebounds>
+         <blocks>149</blocks>
+         <steals>2442</steals>
+      </Chris_Paul>
+      <Paul_Pierce total="46182">
+         <points>29577</points>
+         <assists>5287</assists>
+         <rebounds>8512</rebounds>
+         <blocks>850</blocks>
+         <steals>1956</steals>
+      </Paul_Pierce>
+      <Allen_Iverson total="38503">
+         <points>26479</points>
+         <assists>6049</assists>
+         <rebounds>3667</rebounds>
+         <blocks>178</blocks>
+         <steals>2130</steals>
+      </Allen_Iverson>
+      <Patrick_Ewing total="47615">
+         <points>27628</points>
+         <assists>2490</assists>
+         <rebounds>13042</rebounds>
+         <blocks>3197</blocks>
+         <steals>1258</steals>
+      </Patrick_Ewing>
    </both>
 </stats>
