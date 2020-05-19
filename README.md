@@ -7,4 +7,4 @@ Open the Player_stats notebook, then run all the cells at once. Quite easy, isn'
 ## Tools 
 - IDE: Jupyter Notebook
 - Language: Python 
-- Libraries: xml, time, matplotlib, operator, NumPy
+- Libraries: time, matplotlib, NumPy, panda
