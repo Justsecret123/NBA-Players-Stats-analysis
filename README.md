@@ -1,5 +1,5 @@
 # NBA-Players-Stats-analysis 
-A quick interactive Notebook to visualize some NBA players stats (points, assists, steals, blocks...) and totals, rankings and comparisons. Feel free to add any players in the .csv data files. :basketball:
+A quick interactive Notebook to visualize some NBA players stats (points, assists, steals, blocks...) and totals, rankings and comparisons. Feel free to add any player in the .csv data files. :basketball:
 
 ## Features
 
