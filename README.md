@@ -1,4 +1,4 @@
-# NBA-Players-Stats
+# NBA-Players-Stats-analysis
 A quick programm to visualize some NBA players stats (points, assists, steals, blocks...) and totals, rankings and comparisons. Feel free to add any players in the .csv data files. 
 
 ## Features
