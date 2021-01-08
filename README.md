@@ -7,6 +7,7 @@ A quick programm to visualize some NBA players stats (points, assists, steals, b
 ![Heatmap:](Features/Heatmap.PNG)
 ### Players comparison:
 ![Players_comparison:](Features/Players_comparison.PNG)
+> **Before comparing two players, make sure to run all the cells.**
 
 ### Totals by position:
 ![Totals_by_position:](Features/Totals_by_position.PNG)
