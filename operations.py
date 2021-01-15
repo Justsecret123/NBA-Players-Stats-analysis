@@ -7,13 +7,30 @@
 
 
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 
 # <h1> Operations </h1>
 
-# <h2> Points </h2>
+# <h2> Create heatmap </h2>
 
 # In[2]:
+
+
+def create_heatmap(totals, size=(10,5), annotations=True):
+    correlation_matrix = totals.corr()
+   
+    plt.figure(figsize=size)
+    color_palette = sns.color_palette("light:#4d91ff", as_cmap=True)
+    ax = sns.heatmap(data=correlation_matrix, cmap=color_palette, annot=annotations)
+    plt.title("Heatmap: correlation matrix")
+
+    plt.show()
+
+
+# <h2> Points </h2>
+
+# In[3]:
 
 
 def getTotalPoints(totals,size=(5,15)):
@@ -32,7 +49,7 @@ def displayPoints(totals):
 
 # <h2> Assists </h2>
 
-# In[3]:
+# In[4]:
 
 
 def getTotalAssists(totals,size=(5,15)):
@@ -51,7 +68,7 @@ def displayAssists(totals):
 
 # <h2> Rebounds </h2>
 
-# In[4]:
+# In[5]:
 
 
 def getTotalRebounds(totals,size=(5,15)):
@@ -70,7 +87,7 @@ def displayRebounds(totals):
 
 # <h2> Steals </h2>
 
-# In[5]:
+# In[6]:
 
 
 def getTotalSteals(totals,size=(5,15)):
@@ -89,7 +106,7 @@ def displaySteals(totals):
 
 # <h2> Blocks </h2>
 
-# In[6]:
+# In[7]:
 
 
 def getTotalBlocks(totals,size=(5,15)):
@@ -108,7 +125,7 @@ def displayBlocks(totals):
 
 # <h2> Totals <h2>
 
-# In[7]:
+# In[8]:
 
 
 def getTotalTotals(totals,size=(5,15)):
@@ -126,8 +143,112 @@ def displayTotals(total_totals):
         i+=1
 
 
-# In[ ]:
+# <h1> By position </h1>
+
+# <h2> Guards </h2>
+
+# In[9]:
 
 
+def TotalsByPosition_Guards(point_guards, shooting_guards):
+    
+    pg_totals = point_guards.sum(axis=1)
+    sg_totals = shooting_guards.sum(axis=1)
+    
+    t = pg_totals.sort_values(ascending=False)
+    
+    plt.figure(figsize=[5,5])
+    plt.title("Point guards")
+    t.plot.bar()
+    plt.show()
+    
+    ordered = pg_totals.sort_values(ascending=False) 
+    size = ordered.shape[0]
+    for i in range(size):
+        print(f' {i+1} - {ordered.index[i]} :  {ordered.values[i]}')
+        
+    t = sg_totals.sort_values(ascending=False)
+    
+    plt.figure(figsize=[5,5])
+    plt.title("Shooting guards")
+    t.plot.bar()
+    plt.show()
+    
+    ordered = sg_totals.sort_values(ascending=False) 
+    size = ordered.shape[0]
+    for i in range(size):
+        print(f' {i+1} - {ordered.index[i]} :  {ordered.values[i]}')
 
+
+# <h2> Forwards </h2>
+
+# In[10]:
+
+
+def TotalsByPosition_Forwards(small_forwards, power_forwards):
+    
+    sf_totals = small_forwards.sum(axis=1)
+    pf_totals = power_forwards.sum(axis=1)
+    
+    t = sf_totals.sort_values(ascending=False)
+    
+    plt.figure(figsize=[5,5])
+    plt.title("Small Forwards")
+    t.plot.bar()
+    plt.show()
+    
+    ordered = sf_totals.sort_values(ascending=False) 
+    size = ordered.shape[0]
+    for i in range(size):
+        print(f' {i+1} - {ordered.index[i]} :  {ordered.values[i]}')
+
+        
+    t = pf_totals.sort_values(ascending=False)
+    plt.figure(figsize=[5,5])
+    plt.title("Power forwards")
+    t.plot.bar()
+    plt.show()
+    
+    ordered = pf_totals.sort_values(ascending=False) 
+    size = ordered.shape[0]
+    for i in range(size):
+        print(f' {i+1} - {ordered.index[i]} :  {ordered.values[i]}')
+
+
+# <h2> Centers </h2>
+
+# In[11]:
+
+
+def TotalsByPosition_Centers(centers):
+    
+    c_totals = centers.sum(axis=1)
+    
+    t = c_totals.sort_values(ascending=False)
+    
+    plt.figure(figsize=[5,5])
+    plt.title("Centers")
+    t.plot.bar()
+    plt.show()
+    
+    ordered = c_totals.sort_values(ascending=False) 
+    size = ordered.shape[0]
+    for i in range(size):
+        print(f' {i+1} - {ordered.index[i]} :  {ordered.values[i]}')
+
+
+# <h1> Players comparison </h1>
+
+# In[12]:
+
+
+def compare_players(total_one, player_one, total_two, player_two):
+    
+    if total_one is not None and total_two is not None:
+        if total_one > total_two:
+            print(f"{player_one} has a higher total")
+        else:
+            print(f"{player_two} has a higher total")
+    else:
+        print("Error!")
 
