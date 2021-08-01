@@ -1,5 +1,5 @@
 Player,Points,Assists,Rebounds,Steals,Blocks,Primary Position
-LeBron,7491,1871,2348,445,250,3
+LeBron,7631,1919,2391,454,252,3
 MJ,5987,1022,1152,376,158,2
 Kareem,5762,767,2481,189,476,5
 Kobe,5640,1040,1119,310,144,2
@@ -20,19 +20,19 @@ Elvin_Hayes,2194,185,1244,97,222,5
 Moses_Malone,2077,136,1295,84,151,4
 Robert_Parish,2820,234,1765,145,309,5
 Charles_Barkley,2833,482,1582,193,108,4
-Dwight_Howard,1749,132,1315,84,234,5
-CP3,2133,865,519,222,18,1
+Dwight_Howard,1909,149,1473,94,248,5
+CP3,2666,1073,641,256,24,1
 Paul_Pierce,3180,579,985,204,105,3
 Allen_Iverson,2111,425,273,147,14,1
 Patrick_Ewing,2813,275,1435,122,303,5
 Dominique_Wikins,1423,143,375,73,35,3
 Jerry_West,4457,970,855,0,0,1
-Anthony_Davis,979,96,369,49,63,4
-Kawhi_Leonard,2531,335,975,217,83,3
-Russell_Westbrook,2489,778,686,184,28,1
+Anthony_Davis,1066,109,402,52,71,4
+Kawhi_Leonard,2865,383,1060,240,92,3
+Russell_Westbrook,2727,874,794,198,31,1
 Steph_Curry,2968,704,604,181,30,1
 Julius_Erving,4580,841,1611,287,293,3
-Kevin_Durant,4043,557,1071,139,163,3
+Kevin_Durant,4454,610,1182,157,182,3
 Larry_Bird,3897,1062,1683,296,145,3
 David_Robinson,2221,280,1301,151,312,5
 Dwyane_Wade,3954,870,928,273,175,2
@@ -43,7 +43,7 @@ Wes_Unseld,1260,453,1777,67,55,5
 Kevin_McHale,3182,274,1253,65,281,4
 Rick_Barry,2870,456,675,106,39,3
 Elgin_Baylor,3623,541,1724,0,0,3
-Carmelo_Anthony,1764,185,513,93,26,3
+Carmelo_Anthony,1914,204,557,100,29,3
 Walt_Bellamy,850,136,680,0,0,5
 Nate_Thurmond,966,227,1101,11,51,5
 Ray_Allen,2749,449,648,164,41,2
